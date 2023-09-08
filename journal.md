@@ -8,3 +8,5 @@ My plan for today is to teach Zumi the car how to drive.
 My plan for today is to go ahead and do 2 tracy the turle lessons. i completed 3 modules
 # 9/6
 my plan for today is to 2 more tracy the turle lessons.
+# 9/8
+My plan for today is to do 3 tracy the turtle lessons. 
