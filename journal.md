@@ -11,4 +11,4 @@ my plan for today is to 2 more tracy the turle lessons.
 # 9/8
 My plan for today is to do 3 tracy the turtle lessons. 
 # 9/11
-My plan for today is to do 3 Tracy the tutrtle lessons. 
+My plan for today is to do 3 Tracy the tutrtle lessons. I onyl did one as this one was resally hard.
