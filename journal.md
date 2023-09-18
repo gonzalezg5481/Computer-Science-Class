@@ -16,3 +16,5 @@ My plan for today is to do 3 Tracy the tutrtle lessons. I only did one as this o
 My plan for today is to do the next tracy the turtle lsson, as the last one was very hard and this 2.7 concept is a bit confusing. 
 # 9/13
 My plan for today is to do some tracy the turtle lessons.
+# 9/18
+I have been sick for the past four days, and still feelig pretty iffy, so I'm really just hoping to remember everything and do at least one module. 
