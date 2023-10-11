@@ -18,5 +18,5 @@ My plan for today is to do the next tracy the turtle lsson, as the last one was 
 My plan for today is to do some tracy the turtle lessons.
 # 9/18
 I have been sick for the past four days, and still feelig pretty iffy, so I'm really just hoping to remember everything and do at least one module. 
-#10/11
-I completely somehow managed to forgot about updating GItHUB, my apologies (please don't dock my grade much) I have done a couple of Tracy the turtle lessons.
+# 10/11
+I completely somehow managed to forgot about updating GItHUB, my apologies (please don't dock my grade much) I have done a couple of Tracy the turtle lessons (2.9 really took me forever to figure out the shapes)
