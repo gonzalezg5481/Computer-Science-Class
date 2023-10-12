@@ -20,3 +20,5 @@ My plan for today is to do some tracy the turtle lessons.
 I have been sick for the past four days, and still feelig pretty iffy, so I'm really just hoping to remember everything and do at least one module. 
 # 10/11
 I completely somehow managed to forgot about updating GItHUB, my apologies (please don't dock my grade much) I have done a couple of Tracy the turtle lessons (2.9 really took me forever to figure out the shapes)
+# 10/12
+I finished 2.9 and starting 2.10
