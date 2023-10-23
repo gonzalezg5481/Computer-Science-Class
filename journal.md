@@ -26,3 +26,5 @@ I finished 2.9 and starting 2.10
 Currently working on the bubble wrap one.
 #10/16
 Currently still trying to fix the bubble wrap one.
+10/23
+Currently working on more lessons
