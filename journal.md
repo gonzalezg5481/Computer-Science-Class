@@ -23,6 +23,8 @@ I completely somehow managed to forgot about updating GItHUB, my apologies (plea
 # 10/12
 I finished 2.9 and starting 2.10
 #10/13
+#11/1
+First day of november and I'm going to go bck to the bubble wrap eventually, currently trying something else.
 Currently working on the bubble wrap one.
 #10/16
 Currently still trying to fix the bubble wrap one.
